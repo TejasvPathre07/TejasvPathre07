@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tejas-pathre-95799a22b/))
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TejasvPathre07&theme=darkhub)
 
-**Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tejas-pathre-95799a22b/))
+
 
 ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasvPathre07&show_icons=true&theme=radical)
