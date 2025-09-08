@@ -9,7 +9,7 @@ I enjoy writing clean, maintainable code and creating user-friendly interfaces.
 - 🌱 Currently exploring **.NET 8**, **Blazor**, and **Cloud Deployment (Azure)**.
 - 💻 Skilled in **C#, ASP.NET, MVC, SQL Server, Web API, Bootstrap, jQuery**.
 - 🎯 Goal: To become a full-stack .NET expert and contribute to impactful projects.
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **tejasvpathre@gmail.com**
 
 ---
 
