@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TejasvPathre07&theme=darkhub)
 
-
+**Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tejas-pathre-95799a22b/))
 
 ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasvPathre07&show_icons=true&theme=radical)
